@@ -1,0 +1,50 @@
+Python 3.7.0b3 (v3.7.0b3:4e7efa9c6f, Mar 29 2018, 18:42:04) [MSC v.1913 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:\Users\Racter\AppData\Local\Programs\Python\Python37\utility_Functions.py 
+Enter input for FibonacciNumber:  4
+3
+Enter input for FibonacciNumber:  q
+Enter input for FactorialNumber:  3
+num =  3
+num =  2
+num =  1
+6
+Enter input for FactorialNumber:  q
+Enter input for ReverseString:  HelloWorld!
+Input String =  HelloWorld!
+!dlroWolleH
+Enter input for ReverseString:  q
+Enter input for PrimeNumber:  3
+num =  3
+3 is a prime number
+Enter input for PrimeNumber:  6
+num =  6
+6 is not a prime number
+Enter input for PrimeNumber:  q
+Enter input for Palindrome:  Ette
+Input String =  Ette
+Ette is not a palindrome
+Enter input for Palindrome:  ette
+Input String =  ette
+ette is a palindrome
+Enter input for Palindrome:  q
+Enter input for LongestWord:  I love puppies
+Input String =  I love puppies
+Longest Word is:  puppies
+Enter input for LongestWord:  q
+Enter input for UserName:  Lila7Fata
+Input String =  Lila7Fata
+Lila7Fata  is a valid user name
+Enter input for UserName:  LilaFata_
+Input String =  LilaFata_
+LilaFata_  is an invalid user name
+Enter input for UserName:  q
+Enter input StockPrices:  4,5,6,7
+Input Prices =  4,5,6,7
+Max profit is:  3
+Enter input StockPrices:  12,54,66,34
+Input Prices =  12,54,66,34
+Max profit is:  54
+Enter input StockPrices:  q
+>>> 
